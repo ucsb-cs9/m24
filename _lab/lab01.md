@@ -4,7 +4,7 @@ num: lab01
 ready: true
 desc: "Python Classes"
 assigned: 2024-08-05 11:59:59-7
-due: 2024-08-13 23:59:59-7
+due: 2024-08-11 23:59:59-7
 ---
 
 In this lab, you'll have the opportunity to practice:

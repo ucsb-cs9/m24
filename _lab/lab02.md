@@ -4,7 +4,7 @@ num: lab02
 ready: true
 desc: "Coffee Shop"
 assigned: 2024-08-05 11:59:59-7
-due: 2024-08-20 23:59:59-7
+due: 2024-08-18 23:59:59-7
 ---
 
 In this lab, we'll utilize inheritance functionality and define various Beverage objects and its properties. You'll have the opportunity to practice:

@@ -4,7 +4,7 @@ num: lab03
 ready: true
 desc: "Recursion"
 assigned: 2024-08-05 11:59:59-7
-due: 2024-08-20 23:59:59-7
+due: 2024-08-18 23:59:59-7
 ---
 
 In this lab, we'll practice:
