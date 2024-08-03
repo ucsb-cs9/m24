@@ -14,8 +14,29 @@ Richert Wang
 
 # Teaching Assistants
 
-TBD
+Wanjing Huang
+
+* Lab Sections: 12:30pm, 2pm
+* Thursdays 1pm - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+
+Jing Peng
+
+* Lab Sections: 2pm, 3:30pm
+* Tuesdays 4pm - 6pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+
+Rasta Tadayon
+
+* Lab Sections: 2pm, 3:30pm
+* Mondays 1pm - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 # Undergraduate Learning Assistant
 
-TBD
+Emily Tian
+
+* Lab Sections: 12:30pm, 3:30pm
+* Fridays 12pm - 2pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+
+Ryan Zanone
+
+* Lab Sections: 12:30pm, 2pm
+* Fridays 10am - 12pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
