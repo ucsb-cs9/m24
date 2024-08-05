@@ -72,7 +72,7 @@ Your course grade will be determined as follows:
 
 | Grade Item                                    | Percentage of Final Grade |
 |-----------------------------------------------|---------------------------|
-| Academic Integrity Contract                   | 1 %                      |
+| Academic Integrity Contract (Tuesday 8/13)    | 1 %                      |
 | Midterm (Thursday 8/22), 9:30am - 10:50am     | 35 %                      |
 | Final (Thursday 9/12), 9:30am - 10:50am       | 35 %                      |
 | Homeworks                                     | 9 %                      |
