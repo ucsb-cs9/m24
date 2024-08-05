@@ -27,7 +27,7 @@ Jing Peng
 Rasta Tadayon
 
 * Lab Sections: 2pm, 3:30pm
-* Mondays 1pm - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Mondays 9am - 11am (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 # Undergraduate Learning Assistant
 
