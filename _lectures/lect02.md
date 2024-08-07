@@ -335,7 +335,7 @@ Traceback (most recent call last):
 TypeError: can only concatenate str (not "int") to str
 ```
 
-* In this case, a `TypeError` occurred since ‘+’ cannot add str types.
+* In this case, a `TypeError` occurred since ‘+’ cannot add str and int types together
 
 # Handling Exceptions
 
