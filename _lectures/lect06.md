@@ -165,9 +165,9 @@ print("Time elapsed with DICT (in seconds):", end - start)
 
 # Midterm High-Level Guide
 
-Link to previous M23 in-person Midterm: [M23 Sample Midterm](https://drive.google.com/file/d/1cko6N6WtEI6odt1OQL_N_WoO4hVjCTgQ/view?usp=drive_link)
+* Link to previous M23 in-person Midterm: [M23 Sample Midterm](https://drive.google.com/file/d/1cko6N6WtEI6odt1OQL_N_WoO4hVjCTgQ/view?usp=drive_link)
 
-    Note: use this as a **supplemental** study guide - the content and difficulty will vary.
+	* Note: use this as a **supplemental** study guide - the content and difficulty will vary.
 
 ```
 Time:
