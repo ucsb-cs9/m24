@@ -39,4 +39,4 @@ Emily Tian
 Ryan Zanone
 
 * Lab Sections: 12:30pm, 2pm
-* Fridays 10am - 12pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Tuesdays 2pm - 4pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
