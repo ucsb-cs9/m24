@@ -3,7 +3,7 @@ layout: lab
 num: lab03
 ready: true
 desc: "Recursion"
-assigned: 2024-08-05 11:59:59-7
+assigned: 2024-08-05 23:59:59-7
 due: 2024-08-20 23:59:59-7
 ---
 
